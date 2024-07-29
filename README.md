@@ -1,1 +1,1 @@
-# python-language-examples
+# Temel seviyede python örnekleri.
